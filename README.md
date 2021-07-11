@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @metalg091
-- //👀 I’m interested in ...
-- 🌱 I’m currently learning c#, javascript and php
+- 👀 I’m interested in fullstack dev
+- 🌱 I’m currently learning ~~c#~~, javascript and php
 - //💞️ I’m looking to collaborate on ...
 - 📫 email: tibi.furesz@gmai.com
 
