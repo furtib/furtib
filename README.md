@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @metalg091
-- 👀 I’m interested in Algorithms and Security!
+- 👀 I’m interested in idk!
 - 🌱 I’m currently getting my Bsc at ELTE IK
-- //💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on living
 - 📫 email: jaoycb@inf.elte.hu
 
 <!---
