@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furtib
 - 👀 I’m interested in everything!
 - 🌱 I’m currently getting my Bachelor's at ELTE IK
-- 💞️ I’m looking to collaborate on CodeChecker
+- 💞️ I’m looking to collaborate on the bazel integration of CodeChecker
 - 📫 email: tibi.furesz@gmail.com or jaoycb@inf.elte.hu
